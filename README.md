@@ -1,4 +1,4 @@
-<h1>Using CSS to design a basic ATM</h1>
+<h1>Using Vanilla CSS to design a basic ATM</h1>
 
 <p>Try it out: <p> https://nedackland.github.io/bank-app/
 
